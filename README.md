@@ -4,7 +4,7 @@
 
 <br>Unity 3D - First Person Shooter game - https://youtu.be/xiVQJyfHhlM     (25/06/2023)
 
-![Banner](Screenshot (925).png)
+![Banner](First_Person_Shooter/Screenshot (923).png)
 <br><code>In this game you will find:</code>
 
 <br>-The scene contains various destructible objects, each built with a unique material.
